@@ -8,9 +8,9 @@
 
 WgetCloud机场主要使用Shadowsocks协议，近期还新增了SSR、V2ray和Trojan协议的支持。各个平台的软件对SS协议提供了友好的支持，并且同时支持Clash、Shadowrocket、Quantumult X和Surge 4等主流的代理订阅格式。机场通过分组制度对线路节点进行管理，单组用户人数上限为400人，以保证线路稳定性。此外，机场还采用了动态限速技术，进一步保证线路的稳定性。
 
-点击下方链接注册成为新用户，即可获得全员无门槛8折优惠体验，可前往福利中心查看优惠券。
+**点击下方链接注册成为新用户，即可获得全员无门槛8折优惠体验，可前往福利中心查看优惠券。**
 
-## [WgetCloud官网链接](https://invite.wgetcloud.ltd/auth/register?code=jll8)
+### [WgetCloud官网链接](https://invite.wgetcloud.ltd/auth/register?code=jll8)
 
 首次购买套餐的新用户，还可以额外领取一张为期7天的奈飞体验卡。
 
