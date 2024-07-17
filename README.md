@@ -1,8 +1,8 @@
-# WgetCloud官网地址
+# WgetCloud官网地址 WgetCloud怎么样？
 
 **最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=jll8)**
 
-## 简介
+## WgetCloud简介
 
 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原GaCloud）机场是2024年值得入手的精品机场服务。该机场提供多线BGP中转+双程CN2优质线路，以及独享带宽。此外，在香港设有自己的机房，以确保在高峰期的稳定可用性。WgetCloud机场的运营团队从事机场行业已有4年多，技术方面经验丰富，无需担忧。团队成员也分布在海外，保证用户的数据安全。
 
