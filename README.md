@@ -2,9 +2,11 @@
 
 **最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=jll8)**
 
+## [https://github.com/LisaLee938/ClaudeCodeFangFeng](https://github.com/LisaLee938/ClaudeCodeFangFeng)
+
 ## WgetCloud简介
 
-[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原GaCloud）机场是2024年值得入手的精品机场服务。该机场提供多线BGP中转+双程CN2优质线路，以及独享带宽。此外，在香港设有自己的机房，以确保在高峰期的稳定可用性。WgetCloud机场的运营团队从事机场行业已有4年多，技术方面经验丰富，无需担忧。团队成员也分布在海外，保证用户的数据安全。
+[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原GaCloud）机场是2026年值得入手的精品机场服务。该机场提供多线BGP中转+双程CN2优质线路，以及独享带宽。此外，在香港设有自己的机房，以确保在高峰期的稳定可用性。WgetCloud机场的运营团队从事机场行业已有4年多，技术方面经验丰富，无需担忧。团队成员也分布在海外，保证用户的数据安全。
 
 WgetCloud机场主要使用Shadowsocks协议，近期还新增了SSR、V2ray和Trojan协议的支持。各个平台的软件对SS协议提供了友好的支持，并且同时支持Clash、Shadowrocket、Quantumult X和Surge 4等主流的代理订阅格式。机场通过分组制度对线路节点进行管理，单组用户人数上限为400人，以保证线路稳定性。此外，机场还采用了动态限速技术，进一步保证线路的稳定性。
 
