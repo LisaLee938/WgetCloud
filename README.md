@@ -2,7 +2,7 @@
 
 **最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=jll8)**
 
-## [https://github.com/LisaLee938/ClaudeCodeFangFeng](https://github.com/LisaLee938/ClaudeCodeFangFeng)
+## [Claude Code 防封号指南](https://github.com/LisaLee938/ClaudeCodeFangFeng)
 
 ## WgetCloud简介
 
